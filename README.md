@@ -5,7 +5,7 @@ Troixième projet de [42](https://42.fr/) dont le but est de recréer une foncti
 ---
 
 
-#### Utilisation :
+## Utilisation :
 
 Voici la déclaration de la fonction ft_printf.
 
@@ -13,11 +13,11 @@ Voici la déclaration de la fonction ft_printf.
 char	*get_next_line(int fd);
 ```
 
-#### Paramètre :
+## Paramètre :
 
 - `fd` - Contient le [descripteur de fichier](https://fr.wikipedia.org/wiki/Descripteur_de_fichier).
 
-#### Exemple d'utiliation :
+## Exemple d'utiliation :
 
 ```
 #include <stdio.h>
@@ -45,14 +45,14 @@ int	main(void)
 ```
 
 ---
-#### Diagrammes :
+## Diagrammes :
 
 | Diagramme d'activité |
 | --- |
 | <img src="./img/activity-diagramme.png" style="zoom:85%;" /> |
 
 ---
-#### Tests automatisés :
+## Tests automatisés :
 
 | [gnlTester](https://github.com/Tripouille/gnlTester) | 
 | --- |
@@ -60,7 +60,7 @@ int	main(void)
 | ![](./img/gnlTester2.png) |
 
 ---
-#### Correction :
+## Correction :
 
 | |
 | --- |
