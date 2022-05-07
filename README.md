@@ -1,4 +1,4 @@
-# get_next_line
+<h1 align="center">Get Next Line</h1>
 
 Troixième projet de [42](https://42.fr/) dont le but est de recréer une fonction qui récupère la première ligne d'un fichier ainsi que la ligne suivante à chaque nouvel appel de la fonction.
 
